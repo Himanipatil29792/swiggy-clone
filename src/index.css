@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.res-card {
+  padding: 5px;
+  width: 200px;
+  height: 315px;
+}
